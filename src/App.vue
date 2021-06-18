@@ -1,17 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+
+    <div class="poke">
+<PokeSearch> </PokeSearch>
+    </div>
+
   </div>
+    
+    
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import PokeSearch from './components/PokeSearch.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    PokeSearch
   }
 }
 </script>
@@ -21,8 +28,32 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
+  text-align: left;
   color: #2c3e50;
-  margin-top: 60px;
+  /* margin-top: 60px; */
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #ffe259, #ffa751);
 }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.poke{
+  width: 100%;
+  height: auto;
+  background: linear-gradient(to right, #ffe259, #ffa751);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 10px;
+}
+
 </style>
