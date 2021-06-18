@@ -1,23 +1,43 @@
-# pokedex
 
-## Project setup
+<h1 align="center">PokeDex</h1>
 
-<video src="https://i.imgur.com/XJRYCsB.gifv"> </video> 
+![Alt Text](https://i.imgur.com/XJRYCsB.gif)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<!-- Status -->
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="https://github.com/LuKezLima target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+An amazing pokedex to search for your favorite pokemon!
+  You can search by the ID or the name.
+                                                     
+It was made to practice VueJS and all the front-end skills                                            
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [VueJS](https://vuejs.org/)
+- [HTML]
+- [CSS]
+- [JS]
+
+
+
+
+## Author ##
+
+Made with :heart: by <a href="https://github.com/LuKezLima" target="_blank">LuKezLima</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
