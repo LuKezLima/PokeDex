@@ -2,7 +2,7 @@
 
 ## Project setup
 
-<img src="https://i.imgur.com/XJRYCsB.gifv"> 
+<video src="https://i.imgur.com/XJRYCsB.gifv"> </video> 
 
 ### Compiles and hot-reloads for development
 ```
