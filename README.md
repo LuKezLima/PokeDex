@@ -1,9 +1,8 @@
 # pokedex
 
 ## Project setup
-```
-npm install
-```
+
+<img src="https://i.imgur.com/XJRYCsB.gifv"> 
 
 ### Compiles and hot-reloads for development
 ```
