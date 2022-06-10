@@ -47,7 +47,7 @@ export default {
 
         const layout = `
                 <div id="imgbox">
-                 <img id="pokeimg"src={datas.sprites.back_default} alt="">
+                 <img id="pokeimg"src=${datas.sprites.back_default}alt=imagem do ${datas.name}>
                  <h1 class="name">Nome: ${datas.name}</h1>
                  <h2 id="id">Nr: ${datas.id}</h2>
                  <h2 id="type">Tipo: ${datas.types[0].type.name}</h2>
